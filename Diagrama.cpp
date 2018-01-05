@@ -4,9 +4,10 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int x;
-    cout<<"Dame un número"<<endl;
-    cin>> x;
+    int x=1;
+    
+    //cout<<"Dame un número"<<endl;
+    //cin>> x;
     if(x<=5)
     {
         while(x<=5)
